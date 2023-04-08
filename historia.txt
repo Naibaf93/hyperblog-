@@ -1,8 +1,13 @@
 Esta es la historia de Fabián Huertas
 
 Fabián va a cumplir 30 años y nacio en Bogota D.C.
+<<<<<<< HEAD
 Viviendo ahorita en un arriendo por que su mama lo abandono 
 y su hermana lo robo...
+=======
+Viviendo ahorita en un arriendo por que su mama lo abandono, su hermana
+junto con el gordo del papa lo robo...
+>>>>>>> cabecera
 
 hoy hablaremos de su vida y su proposito.
 
